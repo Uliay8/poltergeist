@@ -1,0 +1,11 @@
+C:\Users\СетьТехники\source\repos\laba1энтропияДСВ\bin\Debug\laba1энтропияДСВ.exe.config
+C:\Users\СетьТехники\source\repos\laba1энтропияДСВ\bin\Debug\laba1энтропияДСВ.exe
+C:\Users\СетьТехники\source\repos\laba1энтропияДСВ\bin\Debug\laba1энтропияДСВ.pdb
+C:\Users\СетьТехники\source\repos\laba1энтропияДСВ\obj\Debug\laba1энтропияДСВ.csproj.AssemblyReference.cache
+C:\Users\СетьТехники\source\repos\laba1энтропияДСВ\obj\Debug\laba1энтропияДСВ.csproj.SuggestedBindingRedirects.cache
+C:\Users\СетьТехники\source\repos\laba1энтропияДСВ\obj\Debug\laba1энтропияДСВ.MainForm.resources
+C:\Users\СетьТехники\source\repos\laba1энтропияДСВ\obj\Debug\laba1энтропияДСВ.Properties.Resources.resources
+C:\Users\СетьТехники\source\repos\laba1энтропияДСВ\obj\Debug\laba1энтропияДСВ.csproj.GenerateResource.cache
+C:\Users\СетьТехники\source\repos\laba1энтропияДСВ\obj\Debug\laba1энтропияДСВ.csproj.CoreCompileInputs.cache
+C:\Users\СетьТехники\source\repos\laba1энтропияДСВ\obj\Debug\laba1энтропияДСВ.exe
+C:\Users\СетьТехники\source\repos\laba1энтропияДСВ\obj\Debug\laba1энтропияДСВ.pdb
