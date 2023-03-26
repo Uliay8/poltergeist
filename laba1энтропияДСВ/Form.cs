@@ -19,6 +19,7 @@ namespace laba1энтропияДСВ
         private bool isUnique;
         private string prevValue;
         private bool isSumCorrect = false;
+        //add comments  
         //++++ввели количество элементов
         //ввели вероятности - надо проверить что каждое значение от 0 до 1
         // сумма не больше 1,
